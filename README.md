@@ -8,7 +8,7 @@ Here is the list of technologies I like to work with on a daily basis. The unive
 
 | Language              | Front-end | Back-end          | Database   |            Other tools | 
 | --------------------- | --------- | ----------------- | ---------- | ---------------------- | 
-| TypeScript/JavaScript | Svelte    | Fastify           | MySQL      | Git/GitHub  |          |
+| TypeScript/JavaScript | Svelte    | Fastify           | MySQL      | Git/GitHub  |  Salut   |
 | HTML                  | ThreeJS   | Django            | Postgre    | Docker      |          |
 | CSS/SCSS/Tailwind     |           | FastAPI           |            | ESLint      |          |
 | Python                |           |                   |            | Flutter     |          |
