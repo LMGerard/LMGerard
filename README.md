@@ -1,5 +1,5 @@
 # 🤔 About me
-Hello! I'm Louis-Matthieu GERARD, a passionate developer since 2016. I am interested in several technologies including NodeJS or Flutter.
+Hello! I'm Louis-Matthieu GERARD, a passionate developer since 2017. I am interested in several technologies including NodeJS or Flutter.
   
 The best way to discover me is to go on my [website](https://lm.royaume.world), you will find a description of me, the list of my skills, my main projects and various ways to contact me.
 
