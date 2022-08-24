@@ -6,7 +6,7 @@ The best way to discover me is to go on my [website](https://lm.royaume.world), 
 # 📚 Technologies used 
 Here is the list of technologies I like to work with on a daily basis. The universe of NodeJS is great, it offers modern solutions for web application development and that's why I chose it.
 
-| Language              | Front-end | Back-end          | Database   | <th colspan="2">Monthly Savings</th> ||
+| Language              | Front-end | Back-end          | Database   | <th colspan="2">Monthly Savings</th> |
 | --------------------- | --------- | ----------------- | ---------- | ----------- | ---------- |
 | TypeScript/JavaScript | Svelte    | Fastify           | PostgreSQL | Git/GitHub  | GoogleAPI  |
 | HTML                  | ThreeJS   | Django            |            | Docker      | DiscordBot |
